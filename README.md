@@ -1,4 +1,4 @@
-# tools
+# tools-public
 
 This repo contains my public tools.
 
