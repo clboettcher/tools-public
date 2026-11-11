@@ -2,7 +2,7 @@
 // @name         Google Calendar Zeitspannen-Summierer
 // @description  Berechnet die Dauer von von-bis Zeitangaben im Google Calendar und fügt sie in Klammern hinzu.
 // @namespace    http://tampermonkey.net/
-// @version      1.1.0
+// @version      1.1.1
 // @author       https://github.com/clboettcher
 // @match        https://calendar.google.com/*
 // @grant        none
